@@ -1,0 +1,17 @@
+{
+  "userid": "xxxxxx",
+  "password": "xxxxx",
+  "origin": "ETW",
+  "destination": "NDLS",
+  "date": "24/08/2024",
+  "train_number": "12033",
+  "class": "AC Chair car (CC)",
+  "quota": "GENERAL",
+  "name": "xxx xxxx",
+  "age": "26",
+  "gender": "M", 
+  "berthPreference": "WS",
+  "foodChoice": "D",
+  "phonenumber": "xxxxxxx",
+  "UPI": "xxxxxxx@ybl"
+}
