@@ -56,4 +56,7 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 This project is licensed under the MIT License.
 
+## Disclaimer
+This project is for educational purposes only and is not officially associated with IRCTC.
+
 ---
